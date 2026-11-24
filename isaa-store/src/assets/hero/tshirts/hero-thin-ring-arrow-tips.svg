@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+  <!-- Transparent canvas; subtle editorial ring for a cream streetwear hero -->
+  <circle cx="500" cy="500" r="420" stroke="#B8AA94" stroke-width="2" opacity="0.58"/>
+  <circle cx="500" cy="500" r="397" stroke="#C8BBA7" stroke-width="1.5" opacity="0.28"/>
+  <!-- broken accent arcs -->
+  <path d="M 215 191 A 420 420 0 0 1 790 218" stroke="#B8AA94" stroke-width="1.6" opacity="0.48" stroke-linecap="round"/>
+  <path d="M 791 783 A 420 420 0 0 1 248 817" stroke="#B8AA94" stroke-width="1.6" opacity="0.42" stroke-linecap="round"/>
+  <!-- small directional arrow tips, aligned tangentially -->
+  <path d="M 789 218 L 778 214 L 783 226 Z" fill="#A99B83" opacity="0.72"/>
+  <path d="M 248 817 L 260 818 L 254 806 Z" fill="#A99B83" opacity="0.72"/>
+  <!-- fine calibration ticks -->
+  <path d="M 500 75 L 500 88 M 925 500 L 912 500 M 500 925 L 500 912 M 75 500 L 88 500" stroke="#B8AA94" stroke-width="1.5" opacity="0.36" stroke-linecap="round"/>
+  <circle cx="790" cy="218" r="3" fill="#B8AA94" opacity="0.4"/>
+  <circle cx="248" cy="817" r="3" fill="#B8AA94" opacity="0.4"/>
+</svg>
